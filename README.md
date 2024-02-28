@@ -1,5 +1,5 @@
 ![MasterHead](https://www.sfdc99.com/wp-content/uploads/2017/08/WITness-Success.jpeg)
-<h1 align="center">I'm Arlinda!</h1>
+<h1 align="center"> Arlinda</h1>
 <h3 align="center"> "Let's put a ding in the universe", SJ.</h3>
 
 
