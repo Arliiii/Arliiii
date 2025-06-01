@@ -1,3 +1,5 @@
+<p><strong><em>"Simple can be harder than complex." – Steve Jobs</em></strong></p>
+
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
@@ -22,4 +24,4 @@
   </a> 
 </p>
 
-<p><strong><em>"Simple can be harder than complex." – Steve Jobs</em></strong></p>
+
