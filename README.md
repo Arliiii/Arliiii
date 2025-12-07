@@ -1,14 +1,18 @@
 <!-- HEADER -->
-<h1 align="center"><span style="color:#FF99CC">Hey Everyone, I'm Arlinda 👋</span></h1>
-<h3 align="center">Welcome to My GitHub Universe! 🚀</h3>
 <p align="center">
-  <em>"Simple can be harder than complex." – Steve Jobs</em>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=FF99CC&center=true&vCenter=true&width=600&lines=Hey+Everyone,+I'm+Arlinda+👋;Welcome+to+My+GitHub+Universe!+🚀" />
 </p>
-<br/>
+
+<p align="center">
+  <em>“Simple can be harder than complex.” – Steve Jobs</em>
+</p>
 
 ---
-## 👩‍💻 About Me
-- 🌸 Software Engineering
+
+## 🌸 About Me
+I'm a Software Engineering student who loves building meaningful projects, exploring new technologies, and bringing creative ideas to life.  
+I enjoy keeping my work clean, well-structured, and visually organized — aesthetics matter as much as functionality ✨
+
 ---
 
 ## 🧰 Tech Stack
@@ -24,14 +28,14 @@
 
 ---
 
-## 📊 GitHub Streak
+## 🌟 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arliiii&theme=radical&hide_border=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Arliiii&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🎀 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/arlinda-uruçi-27900632b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
@@ -40,3 +44,5 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
+
+---
