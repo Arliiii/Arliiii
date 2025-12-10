@@ -28,13 +28,6 @@ I enjoy keeping my work clean, well-structured, and visually organized — aesth
 
 ---
 
-## 🌟 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Arliiii&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## 🎀 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/arlinda-uruçi-27900632b" target="_blank">
