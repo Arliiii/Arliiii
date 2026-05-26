@@ -10,7 +10,7 @@
 ---
 
 ## 🌸 About Me
-I'm a Software Engineering student who loves building meaningful projects, exploring new technologies, and bringing creative ideas to life.  
+I'm a Software Engineer who loves building meaningful projects, exploring new technologies, and bringing creative ideas to life.  
 I enjoy keeping my work clean, well-structured, and visually organized — aesthetics matter as much as functionality ✨
 
 ---
