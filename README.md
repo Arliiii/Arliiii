@@ -27,15 +27,3 @@ I enjoy keeping my work clean, well-structured, and visually organized — aesth
 </p>
 
 ---
-
-## 🎀 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/arlinda-uruçi-27900632b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="mailto:arlindauruci75@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
-</p>
-
----
